@@ -20,4 +20,4 @@ The UI elements are dynamically updated in `index.html` with fetched API data an
 
 1. Open a web browser and go to: `localhost:8080`. Fill in a US zip code, how you are feeling in the text prompt and hit the Generate button.
 
-1. In the most recent entry prompt you should see updated UI elements showing today's date, the temperature in Kelvins and the how you're feeling prompt.
+1. In the most recent entry prompt you should see updated UI elements showing today's date, the temperature in Fahrenheit and the how you're feeling prompt.
