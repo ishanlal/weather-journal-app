@@ -12,9 +12,9 @@
     "url": "git+https://github.com/ishanlal/weather-journal-app.git"
   },
   "dependencies": {
-      "body-parser": "^1.19.0",
-      "cors": "^2.8.5",
-      "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
   },
   "keywords": [],
   "author": "Ishan Lal <ishanlal@gmail.com>",
